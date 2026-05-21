@@ -11,11 +11,18 @@ export function Projects() {
     live: 'https://bridgelanka.com/'
   },
   {
-    title: 'Task Manager',
+    title: 'Alpha Medi Lab Web Page',
     description:
-    'A full stack task management application built with React and Node.js. Implemented user authentication and CRUD operations for tasks.',
-    tech: ['React', 'Node.js', 'REST APIs'],
-    github: 'https://github.com/Okith-13/Task-Manager-Full-Stack.git',
+    'An application built for a medical laboratory to manage their online presence. Implemented a responsive design and integrated contact forms for customer inquiries.',
+    tech: ['React'],
+    live: 'https://www.alphamedilab.lk/'
+  },
+  {
+    title: 'To-Do Task Application',
+    description:
+    'A full stack todo task management application built with react and node.js. Implemented user authentication for tasks.',
+    tech: ['React', 'Node.js', 'MongoDB'],
+    github: 'https://github.com/Okith-13/to-do-app.git'
   }];
 
   return (
