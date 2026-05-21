@@ -4,28 +4,18 @@ import { Github, ArrowUpRight, FolderGit2 } from 'lucide-react';
 export function Projects() {
   const projects = [
   {
-    title: '[Project One Name]',
+    title: 'Project BridgeLanka',
     description:
-    'A full-stack web application built to solve [specific problem]. Implemented user authentication, real-time data synchronization, and a responsive dashboard.',
-    tech: ['React', 'Node.js', 'PostgreSQL', 'Socket.io'],
-    github: 'https://github.com/yourusername',
-    live: '#'
+    'A full-stack web application built to solve the lack of centralized platform for volunteers. Implemented user authentication, real time data synchronization and a responsive dashboard.',
+    tech: ['React', 'Node.js', 'Firebase', 'Tailwind CSS'],
+    live: 'https://bridgelanka.com/'
   },
   {
-    title: '[Project Two Name]',
+    title: 'Task Manager',
     description:
-    'A command-line tool written in Python that automates [specific workflow]. Reduced processing time by 40% and implemented comprehensive unit testing.',
-    tech: ['Python', 'Click', 'PyTest', 'Docker'],
-    github: 'https://github.com/yourusername',
-    live: '#'
-  },
-  {
-    title: '[Project Three Name]',
-    description:
-    'An algorithmic trading bot that analyzes market trends using moving averages. Backtested against 5 years of historical data with positive returns.',
-    tech: ['C++', 'Pandas', 'REST APIs'],
-    github: 'https://github.com/yourusername',
-    live: '#'
+    'A full stack task management application built with React and Node.js. Implemented user authentication and CRUD operations for tasks.',
+    tech: ['React', 'Node.js', 'REST APIs'],
+    github: 'https://github.com/Okith-13/Task-Manager-Full-Stack.git',
   }];
 
   return (

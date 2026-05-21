@@ -73,19 +73,20 @@ export function About() {
           
           <div className="prose prose-stone prose-lg font-sans text-stone-600 mb-12">
             <p>
-              [Placeholder Bio: I am a driven Computer Science student with a
+              I am a driven Computer Science student with a
               deep curiosity for how things work under the hood. My academic
               journey has equipped me with strong fundamentals in algorithms and
               data structures, while my personal projects have allowed me to
-              explore modern web technologies and system design.]
+              explore modern web technologies and system design.
             </p>
             <p>
-              [Placeholder Bio: When I'm not debugging code or reading
-              documentation, you can find me participating in hackathons,
-              contributing to open-source, or exploring the outdoors. I'm
-              actively seeking a software engineering internship for Summer 2026
-              where I can tackle challenging problems and learn from experienced
-              engineers.]
+              When I am not building applications, automating workflows or exploring 
+              cybersecurity concepts, you can find me participating in hackathons, 
+              contributing to open source projects and expanding my skills in modern 
+              development and cloud technologies. I am actively seeking a Summer 2026 
+              internship where I can work on challenging real world problems, gain 
+              hands-on industry experience and grow alongside experienced professionals 
+              in DevOps, full-stack development or cybersecurity.
             </p>
           </div>
 
