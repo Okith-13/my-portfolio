@@ -64,7 +64,7 @@ export function Hero() {
             }}
             className="font-mono text-sm md:text-base text-accent mb-6 uppercase tracking-wider">
             
-            Computer Science undergraduate · Seeking Summer 2026 internships
+            Software Engineer · Cybersecurity Enthusiast
           </motion.p>
 
           <motion.p
@@ -82,7 +82,7 @@ export function Hero() {
             }}
             className="text-lg md:text-xl text-stone-600 max-w-xl leading-relaxed mb-10 font-sans">
             
-            I'm a software engineering student passionate about building
+            I'm a Computer Science student passionate about building
             scalable systems, clean architectures and intuitive user
             experiences. Currently studying at University of Westminster (IIT) and looking to
             contribute to impactful engineering teams.

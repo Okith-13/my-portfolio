@@ -75,7 +75,7 @@ export function Experience() {
             <div className="md:hidden absolute left-[-4px] top-2 w-2 h-2 rounded-full bg-accent ring-4 ring-cream"></div>
 
             <div className="grid grid-cols-1 md:grid-cols-4 gap-4 md:gap-8 items-baseline">
-              <div className="md:col-span-1 md:text-right font-mono text-sm text-stone-500">
+              <div className="md:col-span-1 md:text-right font-mono text-sm text-stone-500 md:-translate-x-12">
                 {item.date}
               </div>
               <div className="md:col-span-3 relative">
