@@ -11,11 +11,11 @@ export function Projects() {
     live: 'https://bridgelanka.com/'
   },
   {
-    title: 'Alpha Medi Lab Web Page',
+    title: 'Dockerized App',
     description:
-    'An application built for a medical laboratory to manage their online presence. Implemented a responsive design and integrated contact forms for customer inquiries.',
-    tech: ['React'],
-    live: 'https://www.alphamedilab.lk/'
+    'A simple full-stack application containerized with Docker for easy deployment and management.',
+    tech: ['React', 'Node.js', 'Docker'],
+    github: 'https://github.com/Okith-13/dockerized-app.git'
   },
   {
     title: 'To-Do Task Application',

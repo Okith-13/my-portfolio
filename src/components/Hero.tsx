@@ -64,7 +64,7 @@ export function Hero() {
             }}
             className="font-mono text-sm md:text-base text-accent mb-6 uppercase tracking-wider">
             
-            Software Engineer · Cybersecurity Enthusiast
+            Full-Stack Developer · DevOps  & Cloud Enthusiast · Cybersecurity Focused
           </motion.p>
 
           <motion.p
